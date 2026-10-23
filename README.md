@@ -8,15 +8,7 @@ This project was developed as a practical learning experience to understand full
 
 Features
 
-Browse grocery products and categories
-Search for products
-Add and remove products from the cart
-Update product quantities
-Calculate the cart total
-User authentication
-Responsive user interface
-Live deployment
-Payment Integration
+Browse grocery products and categories, Search for products, Add and remove products from the cart, Update product quantities, Calculate the cart total, User authentication, Responsive user interface, Live deployment, Payment Integration
 
 Tech Stack
 
