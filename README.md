@@ -6,7 +6,7 @@ Users can explore available products, browse categories, add items to their cart
 
 This project was developed as a practical learning experience to understand full-stack application development, API integration, database operations, and deployment.
 
-✨ Features
+✨ FEATURES
 
 🛍️ Browse grocery products and categories
 
@@ -26,18 +26,25 @@ This project was developed as a practical learning experience to understand full
 
 📱 Responsive user interface
 
-🛠️ Tech Stack
+🛠️ TECH STACK
 
 Frontend: React.js
+
 Styling: CSS / Tailwind CSS
+
 Backend: Node.js and Express.js
+
 Database: MongoDB
+
 State Management: Redux / Context API
+
 API Communication: REST APIs
+
 Authentication: JWT (JSON Web Tokens)
+
 Deployment: Vercel
+
 Version Control: Git and GitHub
-🚀 Project Purpose
 
 📌 Conclusion
 
