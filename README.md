@@ -9,13 +9,21 @@ This project was developed as a practical learning experience to understand full
 ✨ Features
 
 🛍️ Browse grocery products and categories
+
 🔍 Search for products
+
 🛒 Add and remove products from the cart
+
 ➕ Update product quantities
+
 💰 Calculate the cart total
+
 👤 User authentication
+
 📦 Manage orders
+
 💳 Payment gateway integration for secure online payments
+
 📱 Responsive user interface
 
 🛠️ Tech Stack
