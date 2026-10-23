@@ -1,4 +1,4 @@
-# E-Commerce Website
+# E-Commerce Application
 
 The is a full-stack web development project that replicates key features of a quick-commerce grocery shopping platform.
 
